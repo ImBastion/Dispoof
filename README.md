@@ -25,12 +25,12 @@ A lightweight Windows utility that clones itself as a game's executable, runs a 
 
 ## Features
 
-- 🔍 **Searchable game list** — pulled live from Discord's CDN, with local caching (24h) to avoid unnecessary network calls
-- 🛠️ **Custom mode** — manually specify any exe name / folder path if the game isn't in Discord's list
-- ⏱️ **Countdown timer** — countdown window with live taskbar progress (Windows `ITaskbarList3`)
-- 🔔 **Toast notifications** — Discord-themed popup when a session ends
-- 🧹 **Self-cleaning** — automatically deletes the cloned folder once the process ends
-- 🩹 **Orphan recovery** — detects and offers to remove leftover folders from crashed sessions
+- **Searchable game list** — pulled live from Discord's CDN, with local caching (24h) to avoid unnecessary network calls
+- **Custom mode** — manually specify any exe name / folder path if the game isn't in Discord's list
+- **Countdown timer** — countdown window with live taskbar progress (Windows `ITaskbarList3`)
+- **Toast notifications** — Discord-themed popup when a session ends
+- **Self-cleaning** — automatically deletes the cloned folder once the process ends
+- **Orphan recovery** — detects and offers to remove leftover folders from crashed sessions
 
 ---
 
