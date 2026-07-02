@@ -1,0 +1,1 @@
+pyinstaller --onefile --windowed --name "Dispoof" --icon="icon.ico" --add-data "Dispoof_Logo.png;." --add-data "icon.ico;." main.py
