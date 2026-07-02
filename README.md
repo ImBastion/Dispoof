@@ -1,4 +1,4 @@
-# Dispoof!
+# ![image](https://github.com/ImBastion/Dispoof/blob/master/Dispoof_Logo.png)
 
 A lightweight Windows utility that clones itself as a game's executable, runs a countdown timer, and cleans up automatically when finished — useful for spoofing "Currently Playing" status without keeping the actual game installed or running.
 
@@ -14,6 +14,9 @@ A lightweight Windows utility that clones itself as a game's executable, runs a 
 2. Dispoof copies itself to a hidden folder on your Desktop, renamed to match that game's real executable name and folder structure.
 3. The cloned copy launches in "game mode" — a minimal countdown timer window — which Discord detects the same way it would the real game.
 4. When the timer ends (or the window is closed), the cloned folder is automatically deleted. No leftover files.
+
+<img width="610" height="633" alt="image" src="https://github.com/user-attachments/assets/fba88441-7c04-4b59-913b-9b43d475c7b6" />
+
 
 ---
 
